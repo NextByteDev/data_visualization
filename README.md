@@ -74,4 +74,5 @@ Each chart will be displayed one after the other.
 
 - Improve error handling and input validation
 
+
 Feel free to fork this project, play with your own datasets, and build cool visualizations! 🎨📈
