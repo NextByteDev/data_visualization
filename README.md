@@ -39,7 +39,7 @@ Displays the distribution, median, and outliers of sales for each region.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/data_visualization.git
+git clone https://github.com/your-username/data_visualization.git
 cd data_visualization
 ```
 
